@@ -1,4 +1,4 @@
-# Python certification of our contributors
+# Contributors Python certification
 
 [Kaggle](https://www.kaggle.com/learn) offers many Data Science Courses. A certificate is produced once a course is done. This repository contains all notebooks written by our contributors during these courses.
 
