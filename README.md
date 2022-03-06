@@ -1,6 +1,6 @@
 # Python certification of our contributors
 
-Kaggle offers many Data Science Courses. A certificate is produced once the course is done. This repository contains all notebooks written by our contributors during this courses.
+[Kaggle](https://www.kaggle.com/learn) offers many Data Science Courses. A certificate is produced once a course is done. This repository contains all notebooks written by our contributors during these courses.
 
 ## Pierre-Olivier Chasset
 
