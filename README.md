@@ -1,6 +1,8 @@
-# Python certification
+# Python certification of our contributors
 
-Kaggle offers many Data Science Courses. A certificate is produced once the course is done. This repository contains all notebooks Pierre-Olivier Chasset has written during this courses. The following certifications has been obtained.
+Kaggle offers many Data Science Courses. A certificate is produced once the course is done. This repository contains all notebooks written by our contributors during this courses.
+
+## Pierre-Olivier Chasset
 
 | Topic | Certificates |
 |---|---|
